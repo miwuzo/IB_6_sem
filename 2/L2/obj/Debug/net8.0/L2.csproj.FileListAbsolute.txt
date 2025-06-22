@@ -1,0 +1,28 @@
+D:\Sem6\is\L2\L2\bin\Debug\net8.0\L2.exe
+D:\Sem6\is\L2\L2\bin\Debug\net8.0\L2.deps.json
+D:\Sem6\is\L2\L2\bin\Debug\net8.0\L2.runtimeconfig.json
+D:\Sem6\is\L2\L2\bin\Debug\net8.0\L2.dll
+D:\Sem6\is\L2\L2\bin\Debug\net8.0\L2.pdb
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.AssemblyInfoInputs.cache
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.AssemblyInfo.cs
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.csproj.CoreCompileInputs.cache
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.dll
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\refint\L2.dll
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.pdb
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\L2.genruntimeconfig.cache
+D:\Sem6\is\L2\L2\obj\Debug\net8.0\ref\L2.dll
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\bin\Debug\net8.0\L2.exe
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\bin\Debug\net8.0\L2.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\bin\Debug\net8.0\L2.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\bin\Debug\net8.0\L2.dll
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\bin\Debug\net8.0\L2.pdb
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.dll
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\refint\L2.dll
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.pdb
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\L2.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\L2\L2\obj\Debug\net8.0\ref\L2.dll

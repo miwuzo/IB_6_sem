@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-size: 14px;
+            background-color: #ffffff;
+            color: #000000;
+        }
+        
+        h1 {
+            text-align: left;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .container {
+            padding: 10px;
+        }
+
+        .operations button {
+            font-size: 10px;
+            padding: 2px;
+            margin: 2px;
+            border: 1px solid #000;
+            background-color: #ccc;
+        }
+
+        .inputs {
+            margin: 5px 0;
+        }
+
+        .inputs input {
+            width: 100px;
+            margin-bottom: 2px;
+            padding: 1px;
+            border: 1px solid #000;
+        }
+
+        button.calculate {
+            padding: 3px;
+            font-size: 10px;
+            border: 1px solid #000;
+            background-color: #ddd;
+        }
+
+        .result {
+            margin-top: 5px;
+            padding: 2px;
+            border: 1px solid #000;
+            background-color: #eee;
+            width: 200px;
+        }
+
+        .prime-section, .factor-section, .task3-section, .task5-section {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #000;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="operations">
+            <button data-operation="gcd2">нод 2х</button>
+            <button data-operation="gcd3">нод 3х</button>
+            <button data-operation="primes">простые</button>
+        </div>
+
+        <div id="input-gcd2" class="inputs">
+            <input type="number" id="gcd2-a" placeholder="число1">
+            <input type="number" id="gcd2-b" placeholder="число2">
+        </div>
+
+        <div id="input-gcd3" class="inputs" style="display: none;">
+            <input type="number" id="gcd3-a" placeholder="Ч1">
+            <input type="number" id="gcd3-b" placeholder="Ч2">
+            <input type="number" id="gcd3-c" placeholder="Ч3">
+        </div>
+
+        <div id="input-primes" class="inputs" style="display: none;">
+            <input type="number" id="primes-start" placeholder="Начало">
+            <input type="number" id="primes-end" placeholder="Конец">
+        </div>
+
+        <button id="calculate">вычислить</button>
+
+        <div class="result" id="result"></div>
+    </div>
+
+    <div class="prime-section">
+        <h1>Задача 2: Работа с простыми числами</h1>
+        <input type="number" id="prime-start" placeholder="Начало диапазона">
+        <input type="number" id="prime-end" placeholder="Конец диапазона">
+        <button id="find-primes">Найти простые числа</button>
+        <div class="result" id="prime-result"></div>
+    </div>
+
+    <div class="factor-section">
+        <h1>Задача 4: Каноническая форма числа</h1>
+        <input type="number" id="factor-input" placeholder="Введите число">
+        <button id="find-factors">Найти каноническую форму</button>
+        <div class="result" id="factor-result"></div>
+    </div>
+
+    <div class="task3-section">
+        <h1>Задача 3: Поиск простых чисел</h1>
+        <input type="number" id="task3-start" placeholder="Начало диапазона">
+        <input type="number" id="task3-end" placeholder="Конец диапазона">
+        <button id="find-task3-primes">Найти простые числа</button>
+        <div class="result" id="task3-result"></div>
+    </div>
+
+
+    <div class="task5-section">
+        <h1>Задача 5: Проверка конкатенированного числа</h1>
+        <input type="number" id="task5-m" placeholder="Число M">
+        <input type="number" id="task5-n" placeholder="Число N">
+        <button id="check-concat-prime">Проверить, простое ли конкатенированное число</button>
+        <div class="result" id="task5-result"></div>
+    </div>
+
+    <script src="task1.js"></script>
+    <script>
+        document.getElementById('find-primes').addEventListener('click', function() {
+            const start = parseInt(document.getElementById('prime-start').value);
+            const end = parseInt(document.getElementById('prime-end').value);
+            const primes = findPrimesInRange(start, end);
+            const actualPrimeCount = primes.length;
+            const theoreticalCount = theoreticalPrimeCount(end);
+            const resultDiv = document.getElementById('prime-result');
+            //Простые числа: ${primes.join(', ')}<br>
+            resultDiv.innerHTML = `
+                
+                Количество простых чисел: ${actualPrimeCount}<br>
+                Теоретическое количество: ${Math.round(theoreticalCount)}
+            `;
+        });
+
+        document.getElementById('find-factors').addEventListener('click', function() {
+            const num = parseInt(document.getElementById('factor-input').value);
+            const resultDiv = document.getElementById('factor-result');
+            resultDiv.innerHTML = `Каноническая форма числа ${num}: ${canonicalForm(num)}`;
+        });
+
+        document.getElementById('find-task3-primes').addEventListener('click', function() {
+            const start = parseInt(document.getElementById('task3-start').value);
+            const end = parseInt(document.getElementById('task3-end').value);
+            const primes = countPrimesInRange3(start, end);
+            const actualPrimeCount = primes.length;
+            const theoreticalCount = theoreticalPrimeCount3(end);
+            const resultDiv = document.getElementById('task3-result');
+            resultDiv.innerHTML = `
+                Простые числа: ${primes.join(', ')}<br>
+                Реальное количество: ${actualPrimeCount}<br>
+            `;
+            //   Теоретическое количество: ${Math.round(theoreticalCount)}
+        });
+
+        document.getElementById('check-concat-prime').addEventListener('click', function() {
+            const m = parseInt(document.getElementById('task5-m').value);
+            const n = parseInt(document.getElementById('task5-n').value);
+            const resultDiv = document.getElementById('task5-result');
+            const result = checkConcatenatedNumberIsPrime5(m, n);
+            resultDiv.innerHTML = `Число, полученное из конкатенации ${m} и ${n}, ${result ? "является" : "не является"} простым.`;
+        });
+    </script>
+</body>
+</html>
