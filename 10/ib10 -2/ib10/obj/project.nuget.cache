@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptd9wkqQNdKQTCjj7D2VldVmLMuAiF4GKffMahj+wc+hcYMJXgrujusE+/Nom1dCydp7m4b8dU/VuPqgwRfhBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yana\\OneDrive\\Рабочий стол\\ib10 -2\\ib10\\ib10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yana\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"BouncyCastle\" 1.8.9 есть известная уязвимость https://github.com/advisories/GHSA-8xfc-gm6g-vgpv (уровень серьезности: средний)",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"BouncyCastle\" 1.8.9 есть известная уязвимость https://github.com/advisories/GHSA-m44j-cfrm-g8qc (уровень серьезности: средний)",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"BouncyCastle\" 1.8.9 есть известная уязвимость https://github.com/advisories/GHSA-v435-xc8x-wvr9 (уровень серьезности: средний)",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"BouncyCastle 1.8.9\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

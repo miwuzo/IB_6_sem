@@ -1,0 +1,28 @@
+D:\Labs\ИБ\Lab9\Lab9\bin\Debug\net8.0\Lab9.exe
+D:\Labs\ИБ\Lab9\Lab9\bin\Debug\net8.0\Lab9.deps.json
+D:\Labs\ИБ\Lab9\Lab9\bin\Debug\net8.0\Lab9.runtimeconfig.json
+D:\Labs\ИБ\Lab9\Lab9\bin\Debug\net8.0\Lab9.dll
+D:\Labs\ИБ\Lab9\Lab9\bin\Debug\net8.0\Lab9.pdb
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfoInputs.cache
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfo.cs
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.csproj.CoreCompileInputs.cache
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.dll
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\refint\Lab9.dll
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.pdb
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\Lab9.genruntimeconfig.cache
+D:\Labs\ИБ\Lab9\Lab9\obj\Debug\net8.0\ref\Lab9.dll
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\bin\Debug\net8.0\Lab9.exe
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\bin\Debug\net8.0\Lab9.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\bin\Debug\net8.0\Lab9.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\bin\Debug\net8.0\Lab9.dll
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\bin\Debug\net8.0\Lab9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.dll
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\refint\Lab9.dll
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\Lab9.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\иб 9\Lab9\Lab9\obj\Debug\net8.0\ref\Lab9.dll

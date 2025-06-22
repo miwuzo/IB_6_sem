@@ -1,0 +1,51 @@
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\bin\Debug\net8.0-windows\ib10.exe
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\bin\Debug\net8.0-windows\ib10.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\bin\Debug\net8.0-windows\ib10.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\bin\Debug\net8.0-windows\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\bin\Debug\net8.0-windows\ib10.pdb
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\refint\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.pdb
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ib10.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10\ib10\obj\Debug\net8.0-windows\ref\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\bin\Debug\net8.0-windows\ib10.exe
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\bin\Debug\net8.0-windows\ib10.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\bin\Debug\net8.0-windows\ib10.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\bin\Debug\net8.0-windows\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\bin\Debug\net8.0-windows\ib10.pdb
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\refint\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.pdb
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ib10.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 — копия\ib10\obj\Debug\net8.0-windows\ref\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\bin\Debug\net8.0-windows\ib10.exe
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\bin\Debug\net8.0-windows\ib10.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\bin\Debug\net8.0-windows\ib10.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\bin\Debug\net8.0-windows\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\bin\Debug\net8.0-windows\ib10.pdb
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\refint\ib10.dll
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.pdb
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ib10.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\ib10 -2\ib10\obj\Debug\net8.0-windows\ref\ib10.dll
